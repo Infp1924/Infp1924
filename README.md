@@ -6,7 +6,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Infp1924&label=%F0%9F%91%80%20%E8%A2%AB%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9C%8B%E8%BF%87&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/%F0%9F%92%A1%20%E7%81%B5%E6%84%9F%E6%8D%95%E6%89%8B-catch%20it%20before%20it%20vanishes-8A2BE2?style=flat-square" alt="catch it" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20%E7%8A%B6%E6%80%81-building%20my%20arsenal-00ADD8?style=flat-square" alt="building" />
 
 </div>
 
