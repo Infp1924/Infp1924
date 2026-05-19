@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Infp1924&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E5%A5%BD%E5%A5%87%E5%BF%83%E8%BF%87%E5%89%A9%20%C2%B7%20%E6%83%B3%E6%B3%95%E5%A4%AA%E5%A4%9A%20%C2%B7%20%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%BC%9A%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BF%BD%E4%B8%8A%E7%81%B5%E6%84%9F&descSize=14&descAlignY=55" />
 
@@ -107,8 +107,8 @@
     </tr>
     <tr>
       <td align="center">🔧</td>
-      <td><b>一个小工具</b> —— 解决某个我每天都会遇到的痛点</td>
-      <td align="right"><i>构思中</i> 💭</td>
+      <td><b>CLI 灵感捕捉器</b> —— 命令行里随手记下转瞬即逝的念头，自动标签、本地存储、随时翻阅</td>
+      <td align="right"><i>开发中</i> 🚧</td>
     </tr>
     <tr>
       <td align="center">📝</td>
