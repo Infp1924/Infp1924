@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Infp1924&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E5%A5%BD%E5%A5%87%E5%BF%83%E8%BF%87%E5%89%A9%20%C2%B7%20%E6%83%B3%E6%B3%95%E5%A4%AA%E5%A4%9A%20%C2%B7%20%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%BC%9A%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BF%BD%E4%B8%8A%E7%81%B5%E6%84%9F&descSize=14&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6+%C2%B7+%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B+%C2%B7+%E5%A4%A7%E4%BA%8C;%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95%E6%AF%94%E4%BB%A3%E7%A0%81%E5%A4%9A%E7%9A%84%E5%AD%A6%E7%94%9F;%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E5%85%B7%E9%93%BE%EF%BC%8C%E8%AE%A9%E8%BD%AC%E7%9E%AC%E5%8D%B3%E9%80%9D%E7%9A%84%E5%88%9B%E6%84%8F%E6%9C%89%E5%9C%B0%E6%96%B9%E8%90%BD%E5%9C%B0" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=SCUT+%C2%B7+%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B+%C2%B7+%E5%A4%A7%E4%BA%8C;%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95%E6%AF%94%E4%BB%A3%E7%A0%81%E5%A4%9A%E7%9A%84%E5%AD%A6%E7%94%9F;%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E5%85%B7%E9%93%BE%EF%BC%8C%E8%AE%A9%E8%BD%AC%E7%9E%AC%E5%8D%B3%E9%80%9D%E7%9A%84%E5%88%9B%E6%84%8F%E6%9C%89%E5%9C%B0%E6%96%B9%E8%90%BD%E5%9C%B0" alt="Typing" />
 
 <br>
 
